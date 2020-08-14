@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IronHarambe/tutorial-shop/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/IronHarambe/tutorial-shop/static/js/main.91ac7d14.chunk.js",
+    "main.js.map": "/IronHarambe/tutorial-shop/static/js/main.91ac7d14.chunk.js.map",
+    "runtime-main.js": "/IronHarambe/tutorial-shop/static/js/runtime-main.1255dd74.js",
+    "runtime-main.js.map": "/IronHarambe/tutorial-shop/static/js/runtime-main.1255dd74.js.map",
+    "static/js/2.63c53d46.chunk.js": "/IronHarambe/tutorial-shop/static/js/2.63c53d46.chunk.js",
+    "static/js/2.63c53d46.chunk.js.map": "/IronHarambe/tutorial-shop/static/js/2.63c53d46.chunk.js.map",
+    "index.html": "/IronHarambe/tutorial-shop/index.html",
+    "precache-manifest.6f834f5ff252068a7c100b54dac61057.js": "/IronHarambe/tutorial-shop/precache-manifest.6f834f5ff252068a7c100b54dac61057.js",
+    "service-worker.js": "/IronHarambe/tutorial-shop/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/IronHarambe/tutorial-shop/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.63c53d46.chunk.js.LICENSE.txt": "/IronHarambe/tutorial-shop/static/js/2.63c53d46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1255dd74.js",
+    "static/js/2.63c53d46.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.91ac7d14.chunk.js"
+  ]
+}
